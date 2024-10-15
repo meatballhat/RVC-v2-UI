@@ -27,7 +27,6 @@ class Predictor(BasePredictor):
                 "Trump",
                 "Sandy",
                 "Rogan",
-                "Obama",
                 "CUSTOM",
             ],
         ),
